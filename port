@@ -65,3 +65,4 @@ pthread_cond_destroy(&portsAvailable);
 
 printf("All threads have completed.\n");
 return 0;
+}
